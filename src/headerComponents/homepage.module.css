@@ -1,0 +1,78 @@
+.V3C5bO{
+    min-width: 50px;
+    
+  }
+  .kart{
+    color: #ffffff;
+    padding: 2px;
+    margin: 0px;
+    font-size: 18px;
+    display: flex;
+     
+  }
+  .Appname{
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid white; */
+    /* border-radius: 10px; */
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB8bD2zqgOLLW8uLOMfUp4-sjViLeVvE5hNQ&usqp=CAU);  */
+
+    background-color: black;
+    height: 60px;
+    
+  }
+  .cart{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding: 10px;
+  }
+  .border{
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 0px;
+    display: flex;
+    flex-direction: row-reverse;
+      
+    
+  }
+  .h1{
+    padding: 0px;
+  }
+  .info{
+    margin: 7px 50px 0px 50px;
+    padding: 10px;
+    
+    text-align: center;
+    cursor: pointer;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+  }
+  .conus{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    font-family:sans-serif;
+  }
+  .float{
+    float: right;
+    display: flex;
+    
+  }
+  .name{
+    text-decoration: none;
+  }
+  .conus:hover{
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }

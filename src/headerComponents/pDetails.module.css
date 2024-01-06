@@ -1,0 +1,129 @@
+
+.flexbody{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-left: 30px; 
+    flex-direction: row;
+    margin-bottom: 200px;
+
+}
+
+.pName{
+    position:-ms-page;
+    display:block;
+    width:250px;
+    height: 300px;
+    background-color:#fff;
+    padding: 25px;
+    text-align: center;
+    transition: all 0.3s ease-in-out;  
+    border: 3px solid gray;
+    border-radius: 15px;
+}
+.pName:hover{
+    transform: scale(1.1);
+}
+.flex{
+    display:flex;
+    flex-direction: row;
+    gap:30px;
+    flex-wrap:wrap;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.h1{
+    color:#EC9706;
+    margin:10px;
+    font-size: 20px;
+    
+}
+.h2{
+    padding: 10px;
+    color:#000;
+    font-size: 18px;
+    font-weight: bold;
+}
+.but{
+    background-color: #fff;
+    border: 1px solid #EC9706;
+    padding:10px;
+    font-size: 12px;
+    text-decoration: none;
+    color:#000;
+}
+.but:hover{
+    background-color: #EC9706;
+    color:#fff;
+}
+.box{
+    /* background-image: url(https://img.freepik.com/free-vector/abstract-watercolor-pastel-background_87374-139.jpg?w=2000);  */
+    background-image: url(https://wallpaperaccess.com/full/7977181.jpg);
+    border: 3px solid white ;
+    border-radius: 15px;
+    padding: 10px;
+    max-height: 500px;
+    max-width: 700px;
+    margin-left: 10px;
+    position: sticky;
+    top: 80px;
+
+    
+}
+.bg{
+    /* background-image: url(https://t4.ftcdn.net/jpg/01/18/84/99/360_F_118849932_jybGqxUsYfRpACTJz6I2joQRoxrj4sle.jpg); */
+    background-color: #262626;
+
+}
+.flexbox{
+    display: flex;
+    flex-direction: row;
+
+}
+.heading{
+    white-space: nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    font-size: 15px;
+}
+
+.butbot{
+    bottom: 10px;
+}
+.img{
+    width: 170px;
+    height: 170px;
+    margin-top: 0px;
+}
+.filter{
+    
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-right: 70px;
+    margin-left: 50px;
+}
+.h100{
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 40px;
+
+}
+.price{
+    color: white;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    margin-top: 40px;
+}
+.SLE{
+    font-size: 20px;
+}

@@ -1,0 +1,48 @@
+.card {
+  position: relative;
+  display: block;
+  width: 350px;
+  background-color: #fff;
+  padding: 25px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+  border: 3px solid gray;
+  border-radius: 10px;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}
+
+.card > h1 {
+  color: #ec9706;
+  margin: 10px;
+}
+
+.card > p {
+  padding: 20px;
+  color: #000;
+}
+
+.card > a {
+  background-color: #fff;
+  border: 1px solid #ec9706;
+  padding: 10px;
+  text-decoration: none;
+  color: #000;
+  position: relative;
+}
+
+.card > a:hover {
+  background-color: #ec9706;
+  color: #fff;
+}
+
+.cardContainer {
+  display: flex;
+  gap: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+}

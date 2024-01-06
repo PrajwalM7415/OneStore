@@ -1,0 +1,101 @@
+
+.img{
+    width: 200px;
+    height: 100px;
+}
+
+.div1{
+    border: 1px solid #cccccc;
+    width: 850px;
+    margin-left: 100px;
+    background-color: white;
+    margin-bottom: 110px;
+}
+.box{
+    border: 3px solid #cccccc;
+}
+.flex{
+    display: flex;
+    padding: 20px;
+}
+.box2{
+    background-color: #cccccc;
+}
+.but{
+    text-decoration:underline;
+    padding: 15px;
+    margin-left: 500px;
+}
+.flexbody{
+    /* display: flex; */
+    padding: 10px;
+}
+.price{
+    font-size: 24px;
+}
+.h123{
+    font-size: 30px;
+}
+.bg{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.box1{
+    border: 2px solid #cccccc;
+    margin-left: 40px;
+    background-color: white;
+    height: 360px;
+    position: sticky;
+    top: 100px;
+}
+.pd{
+    border: 2px solid #cccccc;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+
+.priceDetails{
+    font-size: 25px;
+    padding: 10px;
+}
+.div5{
+    font-size: 13px;
+    padding: 10px;
+    border: 2px solid #cccccc;
+}
+.Dc{
+    font-size: 25px;
+    padding: 10px;
+}
+.tp{
+    font-size: 25px;
+    padding: 10px;
+    margin-left: 10px;
+}
+.buy{
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 2px solid #cccccc;
+    padding: 10px;
+    font-size: 20px;
+    background-color: white;
+
+}
+.buy:hover{
+    cursor: pointer;
+    background-color: #cccccc;
+    color: purple;
+    text-decoration:underline;
+}
+.boxing{
+    border: 2px solid #cccccc;
+}
+.headd{
+    text-align: center;
+    padding:25px;
+    text-decoration:underline;
+
+}

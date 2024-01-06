@@ -1,0 +1,49 @@
+.Appname{
+    display: flex;
+    justify-content: space-between;
+    background-color: #006bb3;
+    height: 60px;
+  
+  }
+  .info{
+    margin: 7px 50px 0px 50px;
+    padding: 10px;
+    
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+  }
+  .V3C5bO{
+    min-width: 50px;
+    
+  }
+.heading{
+    color: #EC9706;
+    text-align: center;
+
+}
+
+.para{
+    text-align: center;
+   
+}
+.lgt{
+  padding: 10px;
+  margin-right: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: #006bb3;
+  color: white ;
+  font-size: 20px;
+  border: 2px solid white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.lgt:hover{
+  color:#006bb3;
+  background-color: white;
+  border: 2px solid #006bb3;
+  cursor: pointer;
+}

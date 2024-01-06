@@ -1,0 +1,92 @@
+.V3C5bO{
+  min-width: 50px;
+  
+}
+.kart{
+  color: #ffffff;
+  padding: 2px;
+  margin: 0px;
+  font-size: 18px;
+  display: flex;
+   
+}
+.Appname{
+  display: flex;
+  justify-content: space-between;
+  background-color: skyblue;
+  height: 60px;
+
+}
+.cart{
+  text-decoration: none;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  padding: 10px;
+}
+.border{
+  border: 2px solid white;
+  padding: 5px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row-reverse;
+    
+  
+}
+.h1{
+  padding: 0px;
+}
+.info{
+  margin: 7px 50px 0px 50px;
+  padding: 10px;
+  
+  text-align: center;
+  cursor: pointer;
+  border: 2px solid white;
+  color: white;
+  font-size: 20px;
+  font-family:'Times New Roman', Times, serif;
+}
+.conus{
+  color: white;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  font-family:sans-serif;
+}
+.float{
+  float: right;
+  display: flex;
+  
+}
+.name{
+  text-decoration: none;
+}
+.conus:hover{
+  color: blue;
+}
+.expimg{
+  width: 1519px;
+  height: 650px;
+}
+.explore{
+  font-size: 20px ;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 15px;
+  color:white;
+  border: 2px solid white;
+  border-radius: 5px;
+  width: 200px;
+  background-color:rgba(128, 128, 128, 0.186);  
+  margin-left:650px;
+  margin-top: 5px;
+}
+.explore:hover{
+  color:black;
+  background-color:white;
+  cursor: pointer;
+  border-color:rgba(128, 128, 128, 0.186);
+}
+.para{
+  font-size: 30px;
+}

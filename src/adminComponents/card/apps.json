@@ -1,0 +1,22 @@
+[
+  {
+    "appName": "ADD PRODUCTS ",
+    "appDescription": "ADD ITEMS TO ONESTORE",
+    "path": "/admin/addProducts"
+  },
+  {
+    "appName": "ORDERS",
+    "appDescription": "ITEMS TO BE DELIVERED",
+    "path": "/admin/OrderedProducts"
+  },
+  {
+    "appName": "VIEW PRODUCTS",
+    "appDescription": "PRODUCTS TO SELL",
+    "path": "/admin/viewProducts"
+  },
+  {
+    "appName": "USER DETAILS",
+    "appDescription": "USER SIGNUP DETAILS",
+    "path":"/admin/userDetails"
+  }
+]

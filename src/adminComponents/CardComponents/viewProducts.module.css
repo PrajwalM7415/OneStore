@@ -1,0 +1,15 @@
+.table,label{
+    font-size: 20px;
+    
+}
+.button{
+    width: 130px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+.des{
+    white-space: wrap;
+    font-size: 15px;
+}

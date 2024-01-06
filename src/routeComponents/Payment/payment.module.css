@@ -1,0 +1,90 @@
+.wrapper{
+	font-family: "Gill Sans Extrabold", sans-serif;
+	margin: 90px auto;
+	width: 900px;
+    border: 2px solid #000;
+    padding: 15px;
+    position: relative;
+}
+
+.sideBySide{
+    display: flex;
+}
+
+.title{
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.paymentMethod{
+    width: 45%;
+}
+
+.displayContent{
+    width: 55%;
+    padding: 0px 30px;
+}
+
+.methods{
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #000;
+}
+
+.methods > label{
+    cursor: pointer;
+    position: relative;
+    display: block;
+    padding: 20px 20px;
+    border: 1px solid #000;
+    font-size: 20px;
+}
+
+.btn{
+    position: absolute;
+    bottom: 15px;
+    right: 50px;
+    font-size: 18px;
+    padding: 12px;
+    cursor: pointer;
+}
+
+.red{
+    color: red;
+}
+
+.columnView{
+    display: flex;
+    flex-direction: column;
+}
+
+.columnView1{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 0px 10px 0px;
+}
+
+.rowView{
+    display: flex;
+    flex-direction: row;
+    padding: 20px 0px;
+    gap: 30px;
+}
+
+.rowView1{
+    display: flex;
+    flex-direction: row;
+    padding: 0px 0px 15px 0px;
+    gap: 30px;
+}
+
+.input{
+    padding: 10px;
+    font-size: 15px;
+    margin: 9px 0px;
+    width: 100%;
+}
+
+.cvv{
+    width: 30%;
+}

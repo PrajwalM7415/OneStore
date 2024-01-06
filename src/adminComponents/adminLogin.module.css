@@ -1,0 +1,119 @@
+
+.bg{
+    background-color: #006bb3;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.border{
+    border: 5px thin white;
+    margin: 50px 100px 48px 100px;
+    height: 600px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.img{
+    border-radius: 10px 0px 0px 10px;
+
+    height: 600px;
+    width: 900px;
+}
+.des{
+    text-align: center;
+    padding:  0px ;
+    color: white;
+    font-family: 'Courier New', monospace;
+}
+
+
+.content{
+    padding: 0px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.pus{
+    font-size: 20px;
+}
+.usd{
+    padding: 10px;
+    font-size: 20px;
+}
+.button{
+        color: black;
+        font-size: 15px;
+        padding: 5px;
+        
+        
+    }
+.button:hover{
+    cursor: pointer;
+    color: green;
+}
+.new{
+    font-size: 20px;
+    font-weight: bold;
+}
+.button2:hover{
+    cursor: pointer;
+    color: blue;
+    
+}
+.button2{
+    color: black;
+    text-decoration: none;
+}
+.page{
+    background-image: url(https://t4.ftcdn.net/jpg/01/18/84/99/360_F_118849932_jybGqxUsYfRpACTJz6I2joQRoxrj4sle.jpg); 
+    border-radius: 0px 20px 20px 0px;
+    padding-left: 40px;
+    padding-top: 0px;
+}
+.h1{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+    width:160px;
+    
+    margin-left: 20px;
+    border-radius: 6px;
+    
+}
+
+.V3C5bO{
+min-width: 50px;
+}
+.h1:hover{
+    color: rgb(3, 179, 248);
+    border-color:skyblue;
+    background-color: white;
+    cursor:pointer;
+
+}
+
+.req{
+    color: red;
+    padding: 10px;
+    font-size: 13px;
+    margin: 0px;
+    text-align:calc(20px left);
+    gap: 20px;
+
+}
+.button4{
+    border: 2px solid green;
+    padding: 5px;
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    
+}
+.button4:hover{
+cursor: pointer;
+color: green;
+}
